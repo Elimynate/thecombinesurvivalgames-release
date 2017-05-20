@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "tcsg/map/grass"
+	"$basetexture2" "tcsg/map/rock"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "rock"
+	"%detailtype" "urban_grass_overgrown"
+}

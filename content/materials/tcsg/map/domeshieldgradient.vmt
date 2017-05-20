@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tcsg/map/domeshieldgradient"
+	"$translucent" 1
+}

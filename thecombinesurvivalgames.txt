@@ -1,0 +1,8 @@
+"thecombinesurvivalgames"
+{
+	"base"		"base"
+	"title"		"The Combine Survival Games"
+	"maps"		"^tcsg_"
+	"menusystem"	"1"
+	"workshopid"	""
+}
